@@ -1,0 +1,16 @@
+/Users/dev88/Projects/FizzBuzz.Step1/FizzBuzz.Common/bin/Debug/netstandard1.4/FizzBuzz.Common.deps.json
+/Users/dev88/Projects/FizzBuzz.Step1/FizzBuzz.Common/bin/Debug/netstandard1.4/FizzBuzz.Common.dll
+/Users/dev88/Projects/FizzBuzz.Step1/FizzBuzz.Common/bin/Debug/netstandard1.4/FizzBuzz.Common.pdb
+/Users/dev88/Projects/FizzBuzz.Step1/FizzBuzz.Common/obj/Debug/netstandard1.4/FizzBuzz.Common.csprojResolveAssemblyReference.cache
+/Users/dev88/Projects/FizzBuzz.Step1/FizzBuzz.Common/obj/Debug/netstandard1.4/FizzBuzz.Common.csproj.CoreCompileInputs.cache
+/Users/dev88/Projects/FizzBuzz.Step1/FizzBuzz.Common/obj/Debug/netstandard1.4/FizzBuzz.Common.AssemblyInfo.cs
+/Users/dev88/Projects/FizzBuzz.Step1/FizzBuzz.Common/obj/Debug/netstandard1.4/FizzBuzz.Common.dll
+/Users/dev88/Projects/FizzBuzz.Step1/FizzBuzz.Common/obj/Debug/netstandard1.4/FizzBuzz.Common.pdb
+/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Common/bin/Debug/netstandard1.4/FizzBuzz.Common.deps.json
+/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Common/bin/Debug/netstandard1.4/FizzBuzz.Common.dll
+/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Common/bin/Debug/netstandard1.4/FizzBuzz.Common.pdb
+/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Common/obj/Debug/netstandard1.4/FizzBuzz.Common.csprojResolveAssemblyReference.cache
+/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Common/obj/Debug/netstandard1.4/FizzBuzz.Common.csproj.CoreCompileInputs.cache
+/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Common/obj/Debug/netstandard1.4/FizzBuzz.Common.AssemblyInfo.cs
+/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Common/obj/Debug/netstandard1.4/FizzBuzz.Common.dll
+/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Common/obj/Debug/netstandard1.4/FizzBuzz.Common.pdb

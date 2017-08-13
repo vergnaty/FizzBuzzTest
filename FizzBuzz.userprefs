@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{F3B4461F-64A4-4791-B208-E0D73B57F7C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzz.Test/FizzBuzzTest.cs">
+    <Files>
+      <File FileName="FizzBuzz.Common/FizzBuzzHelper.cs" Line="1" Column="1" />
+      <File FileName="FizzBuzz.Common/DefaultFizzBuzz.cs" Line="10" Column="93" />
+      <File FileName="FizzBuzzi.Step2/CustomFizzBuzz.cs" Line="1" Column="1" />
+      <File FileName="FizzBuzzi.Step2/Program.cs" Line="1" Column="1" />
+      <File FileName="FizzBuzz.Test/FizzBuzzTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FizzBuzz" expanded="True">
+            <Node name="FizzBuzz.Test" expanded="True">
+              <Node name="FizzBuzz" expanded="True">
+                <Node name="Test" expanded="True">
+                  <Node name="FizzBuzzTest" expanded="True">
+                    <Node name="GetLable_By_Given_Number_Equal_Fourteen_Returns_14" selected="True" />
+                  </Node>
+                  <Node name="Step1Test" expanded="True" />
+                  <Node name="Step2Test" expanded="True" />
+                  <Node name="Step3Test" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FizzBuzz.Step1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
