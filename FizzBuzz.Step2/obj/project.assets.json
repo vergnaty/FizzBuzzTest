@@ -14567,10 +14567,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzzi.Step2/FizzBuzz.Step2.csproj",
+      "projectUniqueName": "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Step2/FizzBuzz.Step2.csproj",
       "projectName": "FizzBuzz.Step2",
-      "projectPath": "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzzi.Step2/FizzBuzz.Step2.csproj",
-      "outputPath": "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzzi.Step2/obj",
+      "projectPath": "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Step2/FizzBuzz.Step2.csproj",
+      "outputPath": "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Step2/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

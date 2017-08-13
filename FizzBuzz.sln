@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Step1", "FizzBuzz.Step1\FizzBuzz.Step1.csproj", "{F3B4461F-64A4-4791-B208-E0D73B57F7C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Step2", "FizzBuzzi.Step2\FizzBuzz.Step2.csproj", "{1C67FAC7-ED7E-48A4-8807-AC1C57AC72CD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Step3", "FizzBuzz.Step3\FizzBuzz.Step3.csproj", "{C91D7248-F2A2-4700-B9D6-863E7D4AC57D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Common", "FizzBuzz.Common\FizzBuzz.Common.csproj", "{90E73E00-E9F3-4C32-84CF-BDC7EC37F21F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Test", "FizzBuzz.Test\FizzBuzz.Test.csproj", "{5C79136B-CE0F-4E9C-9D6E-2FD017E4C820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Step2", "FizzBuzz.Step2\FizzBuzz.Step2.csproj", "{6E6FE47A-A8D1-4404-BCB5-48DAE2A04D64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{F3B4461F-64A4-4791-B208-E0D73B57F7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3B4461F-64A4-4791-B208-E0D73B57F7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3B4461F-64A4-4791-B208-E0D73B57F7C9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1C67FAC7-ED7E-48A4-8807-AC1C57AC72CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C67FAC7-ED7E-48A4-8807-AC1C57AC72CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C67FAC7-ED7E-48A4-8807-AC1C57AC72CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C67FAC7-ED7E-48A4-8807-AC1C57AC72CD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C91D7248-F2A2-4700-B9D6-863E7D4AC57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C91D7248-F2A2-4700-B9D6-863E7D4AC57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C91D7248-F2A2-4700-B9D6-863E7D4AC57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -37,5 +33,9 @@ Global
 		{5C79136B-CE0F-4E9C-9D6E-2FD017E4C820}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C79136B-CE0F-4E9C-9D6E-2FD017E4C820}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C79136B-CE0F-4E9C-9D6E-2FD017E4C820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E6FE47A-A8D1-4404-BCB5-48DAE2A04D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6FE47A-A8D1-4404-BCB5-48DAE2A04D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6FE47A-A8D1-4404-BCB5-48DAE2A04D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6FE47A-A8D1-4404-BCB5-48DAE2A04D64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

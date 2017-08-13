@@ -13,7 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\FizzBuzz.Common\FizzBuzz.Common.csproj" />
     <ProjectReference Include="..\FizzBuzz.Step1\FizzBuzz.Step1.csproj" />
-    <ProjectReference Include="..\FizzBuzzi.Step2\FizzBuzz.Step2.csproj" />
     <ProjectReference Include="..\FizzBuzz.Step3\FizzBuzz.Step3.csproj" />
+    <ProjectReference Include="..\FizzBuzz.Step2\FizzBuzz.Step2.csproj" />
   </ItemGroup>
 </Project>

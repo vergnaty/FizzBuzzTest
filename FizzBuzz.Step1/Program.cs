@@ -13,7 +13,7 @@ namespace FizzBuzz.Step1
 			Console.WriteLine("*************************************************");
 
 
-            string fizzBuzz = FizzBuzzHelper.GetLables(20,new DefaultFizzBuzz());
+            string fizzBuzz = FizzBuzzHelper.GetLabels(20,new DefaultFizzBuzz());
 
 			Console.WriteLine(fizzBuzz);
 			Console.ReadLine();

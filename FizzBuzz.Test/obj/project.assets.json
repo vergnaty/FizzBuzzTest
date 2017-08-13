@@ -8591,8 +8591,8 @@
     },
     "FizzBuzz.Step2/1.0.0": {
       "type": "project",
-      "path": "../FizzBuzzi.Step2/FizzBuzz.Step2.csproj",
-      "msbuildProject": "../FizzBuzzi.Step2/FizzBuzz.Step2.csproj"
+      "path": "../FizzBuzz.Step2/FizzBuzz.Step2.csproj",
+      "msbuildProject": "../FizzBuzz.Step2/FizzBuzz.Step2.csproj"
     },
     "FizzBuzz.Step3/1.0.0": {
       "type": "project",
@@ -8635,11 +8635,11 @@
             "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Step1/FizzBuzz.Step1.csproj": {
               "projectPath": "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Step1/FizzBuzz.Step1.csproj"
             },
-            "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzzi.Step2/FizzBuzz.Step2.csproj": {
-              "projectPath": "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzzi.Step2/FizzBuzz.Step2.csproj"
-            },
             "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Step3/FizzBuzz.Step3.csproj": {
               "projectPath": "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Step3/FizzBuzz.Step3.csproj"
+            },
+            "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Step2/FizzBuzz.Step2.csproj": {
+              "projectPath": "/Users/dev88/Projects/Test/FizzBuzzTest/FizzBuzz.Step2/FizzBuzz.Step2.csproj"
             }
           }
         }

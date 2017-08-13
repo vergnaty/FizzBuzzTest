@@ -5,7 +5,7 @@ namespace FizzBuzz.Common
 {
     public class FizzBuzzHelper
     {
-        public static string GetLables(int lastNumber, DefaultFizzBuzz defaultFizzbuzz)
+        public static string GetLabels(int lastNumber, DefaultFizzBuzz defaultFizzbuzz)
         {
 			StringBuilder sb = new StringBuilder();
 			for (int i = 1; i <= lastNumber; i++)
