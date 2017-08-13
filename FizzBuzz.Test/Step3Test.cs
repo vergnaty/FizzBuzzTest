@@ -26,7 +26,7 @@ namespace FizzBuzz.Test
 
 
 		[Fact]
-		public void GetFizzbuzz_Report_By_Given_Range_Returns_Two_Lucky_Lables()
+		public void GetFizzbuzz_Report_By_Given_Range_Returns_Two_Lucky_Labels()
 		{
 			var result = this.fizzBuzzCounter.GetReport(20);
 			int actual = result["lucky"];
@@ -34,7 +34,7 @@ namespace FizzBuzz.Test
 		}
 
 		[Fact]
-		public void GetFizzbuzz_Report_By_Given_Range_Returns_Three_Buzz_Lables()
+		public void GetFizzbuzz_Report_By_Given_Range_Returns_Three_Buzz_Labels()
 		{
 			var result = this.fizzBuzzCounter.GetReport(20);
 			int actual = result["buzz"];
@@ -42,7 +42,7 @@ namespace FizzBuzz.Test
 		}
 
 		[Fact]
-		public void GetFizzbuzz_Report_By_Given_Range_Returns_One_Fizzbuzz_Lables()
+		public void GetFizzbuzz_Report_By_Given_Range_Returns_One_Fizzbuzz_Labels()
 		{
 			var result = this.fizzBuzzCounter.GetReport(20);
 			int actual = result["fizzbuzz"];
@@ -50,7 +50,7 @@ namespace FizzBuzz.Test
 		}
 
 		[Fact]
-		public void GetFizzbuzz_Report_By_Given_Range_Returns_Ten_Integer_Lables()
+		public void GetFizzbuzz_Report_By_Given_Range_Returns_Ten_Integer_Labels()
 		{
 			var result = this.fizzBuzzCounter.GetReport(20);
 			int actual = result["integer"];
